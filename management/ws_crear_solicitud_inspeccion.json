@@ -1,0 +1,45 @@
+{
+    "op":"crearSolicitudInspeccion",
+    "token":"5b8aba280a01b9db6d13ecba0a4f9564FC3DC12B04E92743175EE092AEDA342DF7B806EB017C63588A3EC90824B2FA7",
+    "source":
+    {
+      "name":"WS-RDA",
+      "originID":"127.0.0.1",
+      "tipoOriginID":"dev"
+    },
+    "user":"amontero",
+    "ip":"127.0.0.1",
+    "data":
+    {
+        "usrCreacion":"amontero",
+        "ipCreacion":"127.0.0.1",
+        "empresaCod":"10",
+        "solicitudes":
+        [
+            {
+                "observacion":"Se crea solicitud de inspección de prueba",
+                "tipoSolicitud":"SOLICITUD INSPECCION",
+                "estado":"PrePlanificada",
+                "caracteristicas":      
+                {
+                    "LOGIN_INSPECCION":"bravco",
+                    "PRODUCTO_INSPECCION":
+                    [
+                        {"codigoCrm":"aaaa","codigo":"INTD","nombre":"INTERNET DEDICADO","cantidad":1,"checklist":"https://archivos.telconet.ec/nfs3/593/TN/TelcosWeb/Soporte/Tareas/2020/7/13/186_101_32_102_notificacion_1d3f6c.png"},
+                        {"codigoCrm":"bbbb","codigo":"WSSD","nombre":"WIFI SSD","cantidad":1,"checklist":"https://archivos.telconet.ec/nfs3/593/TN/TelcosWeb/Soporte/Tareas/2020/7/13/186_101_32_102_notificacion_1d3f6c.png"}
+                    ],
+                    "NOMBRE_PROYECTO_INSPECCION":"PROYECTO SMART HOME MEDICITY",
+                    "NUMERO_PROPUESTA_INSPECCION":"PRO-0014",
+                    "NUMERO_COTIZACION_INSPECCION":"COT-0014",
+                    "LATITUD_INSPECCION":"-0.179944",
+                    "LONGITUD_INSPECCION":"-78.481611",
+                    "NOMBRES_CONTACTO_INSPECCION":"",
+                    "TELEFONO_CONTACTO_INSPECCION":"",
+                    "DIRECCION_INSPECCION":"",
+                    "USR_VENDEDOR_INSPECCION":"",
+                    "NOMBRE_CLIENTE_INSPECCION":""
+                }
+            }
+        ]
+    }
+}
