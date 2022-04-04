@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "icon": "comments_disabled",
+            "body": {
+                "propuesta": "523",
+                "cliente": "Carlos Ponces",
+                "descripcion": "Instalacion de wifi home",
+                "login": "1111"
+            },
+            "date": "27/03/2022"
+        },
+        {
+            "icon": "comments_disabled",
+            "body": {
+                "propuesta": "624",
+                "cliente": "Luis Camacho",
+                "descripcion": "Instalacion de wifi home",
+                "login": "1121"
+            },
+            "date": "27/03/2022"
+        }
+    ]
+}

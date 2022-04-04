@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "icon": "https",
+            "body": {
+                "propuesta": "9123",
+                "cliente": "Juan Perez",
+                "descripcion": "Instalacion de wifi home",
+                "login": "1111"
+            },
+            "date": "27/03/2022"
+        },
+        {
+            "icon": "https",
+            "body": {
+                "propuesta": "9124",
+                "cliente": "Juan Perez",
+                "descripcion": "Instalacion de wifi home",
+                "login": "1111"
+            },
+            "date": "27/03/2022"
+        },
+        {
+            "icon": "https",
+            "body": {
+                "propuesta": "124",
+                "cliente": "Carlos Quiroz",
+                "descripcion": "Instalacion de wifi home",
+                "login": "1121"
+            },
+            "date": "27/03/2022"
+        }
+    ]
+}
